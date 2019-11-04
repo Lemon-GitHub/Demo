@@ -3,7 +3,7 @@ package Demo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class Demo {
     public List<List<Integer>> generate(int numRows) {
         if(numRows <= 0){
             return new ArrayList<>();
